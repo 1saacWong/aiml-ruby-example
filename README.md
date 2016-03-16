@@ -32,6 +32,8 @@ user@computer:/aiml-ruby-example$ gem install programr
 user@computer:/aiml-ruby-example$ ./bot.rb
 ```
 
+When you've tired of talking to the bot, type `quit` to exit.
+
 ## Contributing
 
 1. Fork it
