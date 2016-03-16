@@ -19,6 +19,13 @@ user@computer:~$ git clone git@github.com:dreamingechoes/aiml-ruby-example.git
 user@computer:~$ cd aiml-ruby-example
 user@computer:/aiml-ruby-example$ chmod +x bot.rb
 ```
+
+* Install the `ProgramR` gem by executing:
+
+```sh
+user@computer:/aiml-ruby-example$ gem install programr
+```
+
 * Then you are ready to test this by executing the file and starting to type some questions to get an answer:
 
 ```sh
